@@ -4,7 +4,7 @@
 A simple and responsive calculator built using **HTML, CSS, and JavaScript**.
 
 ## Live Demo
--> https://your-username.github.io/calculator/
+-> https://syan-spec.github.io/calculator/
 
 ## Features
 - Basic operations (+, −, ×, ÷)
